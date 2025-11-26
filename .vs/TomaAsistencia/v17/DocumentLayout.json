@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\listarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\listarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\agregarasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\agregarasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\listarasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\listarasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\listarasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\listarasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|c:\\users\\juliana\\desktop\\proyecto_final\\tomaasistencia\\tomaasistencia\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\listarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\listarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\agregarasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\agregarasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\inicionsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\inicionsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\inicionsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\inicionsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\tomaasistencia\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB802B-855F-4D1F-B879-FF1A592BB934}|TomaAsistencia\\TomaAsistencia.csproj|solutionrelative:tomaasistencia\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Inicio.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\Inicio.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Inicio.cs",
+              "RelativeToolTip": "TomaAsistencia\\Inicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:20:03.073Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\ListarUsuarios.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\ListarUsuarios.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\ListarUsuarios.cs",
+              "RelativeToolTip": "TomaAsistencia\\ListarUsuarios.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:58:57.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListarAsistencia.cs",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\ListarAsistencia.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\ListarAsistencia.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\ListarAsistencia.cs",
+              "RelativeToolTip": "TomaAsistencia\\ListarAsistencia.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswGQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:24:24.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListarAsistencia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\ListarAsistencia.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\ListarAsistencia.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\ListarAsistencia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TomaAsistencia\\ListarAsistencia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:07:14.027Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Registrarse.cs",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Registrarse.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\Registrarse.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Registrarse.cs",
+              "RelativeToolTip": "TomaAsistencia\\Registrarse.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAMwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:33:59.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Menu.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\Menu.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TomaAsistencia\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:53:54.698Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgregarAsistencia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\AgregarAsistencia.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\AgregarAsistencia.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\AgregarAsistencia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TomaAsistencia\\AgregarAsistencia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:05:03.263Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Conexion.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\Conexion.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Conexion.cs",
+              "RelativeToolTip": "TomaAsistencia\\Conexion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:10:57.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registrarse.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Registrarse.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\Registrarse.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Registrarse.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TomaAsistencia\\Registrarse.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:51:15.822Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Inicio.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\Inicio.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TomaAsistencia\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:44:21.423Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListarUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\ListarUsuarios.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\ListarUsuarios.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\ListarUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TomaAsistencia\\ListarUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:00:56.556Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AgregarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\AgregarUsuario.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\AgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\AgregarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TomaAsistencia\\AgregarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:04:04.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgregarAsistencia.cs",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\AgregarAsistencia.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\AgregarAsistencia.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\AgregarAsistencia.cs",
+              "RelativeToolTip": "TomaAsistencia\\AgregarAsistencia.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAMwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:49:05.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InicionSesion.cs",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\InicionSesion.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\InicionSesion.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\InicionSesion.cs",
+              "RelativeToolTip": "TomaAsistencia\\InicionSesion.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAMwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:27:03.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InicionSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\InicionSesion.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\InicionSesion.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\InicionSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TomaAsistencia\\InicionSesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:47:12.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Menu.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\Menu.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\Menu.cs",
+              "RelativeToolTip": "TomaAsistencia\\Menu.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:37:36.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AgregarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\AgregarUsuario.cs",
+              "RelativeDocumentMoniker": "TomaAsistencia\\AgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\JULIANA\\Desktop\\PROYECTO_FINAL\\TomaAsistencia\\TomaAsistencia\\AgregarUsuario.cs",
+              "RelativeToolTip": "TomaAsistencia\\AgregarUsuario.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:41:38.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
